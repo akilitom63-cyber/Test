@@ -7,7 +7,7 @@ de gradient, sans dépendance externe.
 ## Utilisation
 
 ```bash
-python model_apprentissage.py
+python model.py
 ```
 
 Le script :
